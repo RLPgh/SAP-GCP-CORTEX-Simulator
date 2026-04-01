@@ -32,8 +32,8 @@ Since we do not have reference to the real raw data, the project is designed to 
 
 1. **Clone repository and install dependencies:**
    ```bash
-   git clone <REPOSITORY_URL>
-   cd sap-gcp-cortex-simulator
+   git clone https://github.com/RLPgh/SAP-GCP-CORTEX-Simulator.git
+   cd SAP-GCP-CORTEX-Simulator
    pip install -r requirements.txt
    ```
 2. **Generate Fake Data:**

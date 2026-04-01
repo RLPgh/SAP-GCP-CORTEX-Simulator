@@ -35,6 +35,7 @@ var/
 wheels/
 share/python-wheels/
 
+# Extras & Ignored Folders
 cortex-data-foundation-main/
-
 Agents.md
+
